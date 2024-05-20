@@ -1,6 +1,6 @@
 # Grocery App
 
-I builded a simple shopping list application using Django and React. The app allows users to perform CRUD (Create, Read, Update, Delete) operations on groceries items.
+I builded a simple grocery list application using Django and React. The app allows users to perform CRUD (Create, Read, Update, Delete) operations on groceries items.
 
 
 ## Technologies
