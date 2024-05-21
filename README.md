@@ -7,5 +7,5 @@ I builded a simple grocery list application using Django and React. The app allo
 
 - `Django:` Python-based web framework for building the backend API.
 - `Django Rest Framework (DRF):` Toolkit for building Web APIs using Django.
-- `React:` JavaScript library for building user interfaces.
+- `React:` JavaScript library for building user interface.
 - `Axios:` Promise-based HTTP client for making requests from the frontend to the backend API.
